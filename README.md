@@ -3,6 +3,7 @@
 Learn how easily you can customize the Syncfusion Vue AutoComplete items using templates.  You will learn how to customize the Syncfusion Vue AutoComplete items. You will see how to add a header and footer to the AutoComplete suggestion list, and how to customize the AutoComplete group title.
  
 Example: https://ej2.syncfusion.com/vue/demos/#/material/auto-complete/template.html
+
 Documentation: https://ej2.syncfusion.com/vue/documentation/auto-complete/templates
 
 
