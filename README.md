@@ -1,4 +1,4 @@
-# Customize AutoComplete Items Using Templates
+# Customize Vue AutoComplete Items Using Templates
 
 Learn how easily you can customize the Syncfusion Vue AutoComplete items using templates.  You will learn how to customize the Syncfusion Vue AutoComplete items. You will see how to add a header and footer to the AutoComplete suggestion list, and how to customize the AutoComplete group title.
  
